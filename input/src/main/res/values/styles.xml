@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InputViewGroup">
+        <attr name="passwordTransformation" format="string" />
+        <attr name="pwdtextColor" format="color|reference" />
+        <attr name="pwdtextSize" format="dimension" />
+        <attr name="hSpace" format="dimension" />
+    </declare-styleable>
+</resources>

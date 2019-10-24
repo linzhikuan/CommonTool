@@ -1,0 +1,2 @@
+include ':app', ':input'
+rootProject.name='CommonTool'
